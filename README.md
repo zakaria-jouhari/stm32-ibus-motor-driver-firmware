@@ -20,7 +20,7 @@ The vehicle has two driven wheels (differential drive) and two free rear caster 
 - RC transmitter: FlySky i6
 - RC receiver: FlySky FS-iA6B, connected via its iBUS (servo) port
 
-<img src="hardware-photo.jpg" width="720" alt="Electronics enclosure mounted on the robot, showing the battery, STM32 Nucleo board, and motor controllers">
+<img src="block-diagram.svg" width="720" alt="Electronics enclosure mounted on the robot, showing the battery, STM32 Nucleo board, and motor controllers">
 
 Battery, STM32 Nucleo board, and motor controllers inside the robot's electronics enclosure.
 
