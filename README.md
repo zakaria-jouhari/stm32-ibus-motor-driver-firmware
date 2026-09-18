@@ -20,7 +20,7 @@ The vehicle has two driven wheels (differential drive) and two free rear caster 
 - RC transmitter: FlySky i6
 - RC receiver: FlySky FS-iA6B, connected via its iBUS (servo) port
 
-<img src="images/hardware-photo.jpg" width="720" alt="Electronics enclosure mounted on the robot, showing the battery, STM32 Nucleo board, and motor controllers">
+<img src="hardware-photo.jpg" width="720" alt="Electronics enclosure mounted on the robot, showing the battery, STM32 Nucleo board, and motor controllers">
 
 Battery, STM32 Nucleo board, and motor controllers inside the robot's electronics enclosure.
 
@@ -33,7 +33,7 @@ Battery, STM32 Nucleo board, and motor controllers inside the robot's electronic
 5. If no valid RC frame arrives for 100 ms, or the vehicle is disarmed, both motors are stopped immediately.
 6. A momentary push button toggles the robot between armed and disarmed. The robot powers up disarmed, so it will not move until the button is pressed once.
 
-<img src="images/block-diagram.svg" width="720" alt="Block diagram: RC transmitter to receiver to STM32, arm button into STM32, STM32 to two motor controllers to two wheel motors">
+<img src="block-diagram.svg" width="720" alt="Block diagram: RC transmitter to receiver to STM32, arm button into STM32, STM32 to two motor controllers to two wheel motors">
 
 Signal and control flow from the RC transmitter to the wheel motors.
 
