@@ -84,7 +84,3 @@ This is an STM32CubeIDE project.
 - Test with the wheels off the ground and the motor supply current-limited before running the vehicle on the ground.
 - Verify that turning the transmitter off causes both motors to stop and the debug console to report a failsafe state.
 - Confirm the arm/disarm button behaves as expected before relying on it.
-
-## Further reading
-
-See `RC_DRIVE_NOTES.md` in this repository for the full design log, including the iBUS frame format, motor controller pinout, PWM configuration, and known open issues.
