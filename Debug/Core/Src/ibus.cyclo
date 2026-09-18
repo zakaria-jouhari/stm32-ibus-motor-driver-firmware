@@ -1,0 +1,7 @@
+../Core/Src/ibus.c:14:13:ibus_arm	1
+../Core/Src/ibus.c:22:6:ibus_init	2
+../Core/Src/ibus.c:33:13:ibus_validate_and_parse	6
+../Core/Src/ibus.c:54:6:ibus_on_rx_event	3
+../Core/Src/ibus.c:65:6:ibus_on_error	1
+../Core/Src/ibus.c:73:6:ibus_is_alive	1
+../Core/Src/ibus.c:78:10:ibus_get_channel	2

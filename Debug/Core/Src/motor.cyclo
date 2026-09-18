@@ -1,0 +1,14 @@
+../Core/Src/motor.c:63:6:motor_init	1
+../Core/Src/motor.c:94:13:set_dir	2
+../Core/Src/motor.c:106:13:set_run	2
+../Core/Src/motor.c:113:13:set_pwm	3
+../Core/Src/motor.c:122:13:apply_output	4
+../Core/Src/motor.c:142:6:motor_set	5
+../Core/Src/motor.c:155:6:motor_stop_all	1
+../Core/Src/motor.c:166:5:motor_is_armed	1
+../Core/Src/motor.c:171:5:motor_dir_sign	1
+../Core/Src/motor.c:177:6:motor_button_update	6
+../Core/Src/motor.c:202:16:deadband	3
+../Core/Src/motor.c:207:16:clamp1000	3
+../Core/Src/motor.c:216:16:motor_drive_source	1
+../Core/Src/motor.c:223:6:motor_rc_update	7

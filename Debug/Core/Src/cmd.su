@@ -1,0 +1,9 @@
+../Core/Src/cmd.c:22:13:cmd_arm	8	static
+../Core/Src/cmd.c:27:6:cmd_init	16	static
+../Core/Src/cmd.c:39:13:cmd_validate_and_parse	24	static
+../Core/Src/cmd.c:59:6:cmd_on_rx_event	16	static
+../Core/Src/cmd.c:70:6:cmd_on_error	8	static
+../Core/Src/cmd.c:78:6:cmd_is_alive	16	static
+../Core/Src/cmd.c:83:6:cmd_enable	4	static
+../Core/Src/cmd.c:88:9:cmd_target_left	4	static
+../Core/Src/cmd.c:93:9:cmd_target_right	4	static

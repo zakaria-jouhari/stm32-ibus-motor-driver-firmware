@@ -1,0 +1,7 @@
+../Core/Src/encoder.c:27:27:htim_of	2
+../Core/Src/encoder.c:32:6:encoder_init	2
+../Core/Src/encoder.c:47:6:encoder_update	3
+../Core/Src/encoder.c:71:7:encoder_speed_mps	1
+../Core/Src/encoder.c:76:7:encoder_freq_hz	1
+../Core/Src/encoder.c:81:10:encoder_pulses	1
+../Core/Src/encoder.c:86:9:encoder_position	1
